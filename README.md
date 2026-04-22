@@ -23,7 +23,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[ТВОЙ_НИК]/[НАЗВАНИЕ_РЕПОЗИТОРИЯ]/blob/main/[название_файла_scoring].ipynb)
 
 **Описание:** Бизнес-задача прогнозирования вероятности того, что клиент примет предложение банка и оформит кредит.
-* **Стек:** Python, Pandas, numpy, scikit-learn, RandomForestClassifier, KNNImputer, OneHotEncoder, Matplotlib.
+**Стек:** Python, Pandas, numpy, scikit-learn, RandomForestClassifier, KNNImputer, OneHotEncoder, Matplotlib.
 
 ### 3. Задача предсказания оттока клиентов по данным телеком компании
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/Задача_предсказания_оттока_клиентов_телеком_компании".ipynb)
