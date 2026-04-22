@@ -9,7 +9,7 @@
 ## 🗂 Оглавление проектов
 
 ### 1. Собственная реализация Логистической регрессии
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[ТВОЙ_НИК]/[НАЗВАНИЕ_РЕПОЗИТОРИЯ]/blob/main/[название_файла_logreg].ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/.ipynb)
 
 * **Описание:** Написание собственного класса логистической регрессии для бинарной классификации (в стиле API scikit-learn), используя исключительно `NumPy`.
 * **Стек:** Python, NumPy, Matplotlib.
@@ -20,7 +20,7 @@
   * Сравнение весов и метрик (ROC-AUC) моей модели с эталонной `sklearn.linear_model.LogisticRegression` (результаты идентичны).
 
 ### 2. Задача кредитного предложения (Credit offer)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[ТВОЙ_НИК]/[НАЗВАНИЕ_РЕПОЗИТОРИЯ]/blob/main/[название_файла_scoring].ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/Задача_кредитного_предложения.ipynb)
 
 * **Описание:** Бизнес-задача прогнозирования вероятности того, что клиент примет предложение банка и оформит кредит.
 * **Стек:** Python, Pandas, numpy, scikit-learn, RandomForestClassifier, KNNImputer, OneHotEncoder, Matplotlib.
@@ -32,7 +32,7 @@
 5. Обучил и валидировал модель: Настроил RandomForestClassifier с балансировкой весов и подтвердил его эффективность на тестовых данных.
 
 ### 3. Задача предсказания оттока клиентов по данным телеком компании
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/Задача_предсказания_оттока_клиентов_телеком_компании".ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/Задача_предсказания_оттока_клиентов_телеком_компании.ipynb)
 
 * **Описание:** Обучить модель для предсказания оттока клиентов телекоммуникационной компании.
 * **Стек:** Python, scikit-learn, CatBoost, seaborn, plotly, ydata-profiling
