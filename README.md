@@ -32,7 +32,7 @@
 5. Обучил и валидировал модель: Настроил RandomForestClassifier с балансировкой весов и подтвердил его эффективность на тестовых данных.
 
 ### 3. Задача предсказания оттока клиентов по данным телеком компании
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/Задача_предсказания_оттока_клиентов_телеком_компании.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/Telecom_Customer_Churn_Prediction.ipynb)
 
 * **Описание:** Обучить модель для предсказания оттока клиентов телекоммуникационной компании.
 * **Стек:** Python, scikit-learn, CatBoost, seaborn, plotly, ydata-profiling
