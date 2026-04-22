@@ -20,7 +20,7 @@
   * Сравнение весов и метрик (ROC-AUC) моей модели с эталонной `sklearn.linear_model.LogisticRegression` (результаты идентичны).
 
 ### 2. Задача кредитного предложения (Credit offer)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/Задача_кредитного_предложения.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/Credit_offer_acceptance_prediction.ipynb)
 
 * **Описание:** Бизнес-задача прогнозирования вероятности того, что клиент примет предложение банка и оформит кредит.
 * **Стек:** Python, Pandas, numpy, scikit-learn, RandomForestClassifier, KNNImputer, OneHotEncoder, Matplotlib.
