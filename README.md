@@ -22,8 +22,8 @@
 ### 2. Задача кредитного предложения (Credit offer)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[ТВОЙ_НИК]/[НАЗВАНИЕ_РЕПОЗИТОРИЯ]/blob/main/[название_файла_scoring].ipynb)
 
-**Описание:** Бизнес-задача прогнозирования вероятности того, что клиент примет предложение банка и оформит кредит.
-**Стек:** Python, Pandas, numpy, scikit-learn, RandomForestClassifier, KNNImputer, OneHotEncoder, Matplotlib.
+* **Описание:** Бизнес-задача прогнозирования вероятности того, что клиент примет предложение банка и оформит кредит.
+* **Стек:** Python, Pandas, numpy, scikit-learn, RandomForestClassifier, KNNImputer, OneHotEncoder, Matplotlib.
 * **Итоги проделанной работы:**
 1. Подготовил данные: Настроил импорт и обработал пропуски с помощью KNNImputer, обеспечив чистоту выборки.
 2. Провел Feature Engineering: Очистил названия регионов через регулярные выражения и применил Target Encoding для работы с географией.
