@@ -9,7 +9,7 @@
 ## 🗂 Оглавление проектов
 
 ### 1. Собственная реализация Логистической регрессии
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gelerik/ML-Course-Projects/blob/main/Native_Logistic_Regression_with_L2_Regularization.ipynb)
 
 * **Описание:** Собственная реализация логистической регрессии, написанная на Python с использованием `NumPy`. Модель использует пакетный градиентный спуск Mini-batch SGD, поддерживает L2-регуляризацию. В проекте проведено сравнение собственной реализацией логистической регресии с соответсвующей моделью из `scikit-learn`.
 * **Стек:** Python, NumPy, Matplotlib, scikit-learn
